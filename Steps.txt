@@ -1,0 +1,9 @@
+Passo1: Criar cabeçalho
+Passo2: Criar 2 Blocos de Textos
+Passo3: Bloco 1 Relatorio dos animais
+Passo4: Bloco 2 Informações do Zoologico
+Passo5: Titulo do site Animals Zoo
+Passo6: Imagens Centralizadas
+Passo7: Repetir Bloco 1 e Bloco 2
+Passo8: Final do site: Nome do Zoologico e Telefine no Rodape
+Passo9: Ancolar o numero de telefone para o whatsappp
